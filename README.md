@@ -1,4 +1,4 @@
-## Instructions for students:
+## Instructions:
 
 ### Compress File
 
@@ -23,8 +23,4 @@ File Compressed.
 ```
 -   After you have executed the program that way you should be able to see in the `Node-FindWord` folder the new compressed file `data.txt.gz`.
 
-### Rules
 
--   This is an individual assignment.
--   Deadline: 2 hours.
--   Use **Git properly**
